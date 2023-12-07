@@ -1,0 +1,6 @@
+flask
+flask_sqlalchemy
+mysqlclient
+flask-marshmallow
+marshmallow-sqlalchemy
+Flask-JWT-Extended
